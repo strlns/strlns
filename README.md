@@ -3,17 +3,13 @@ Hi, I'm Moritz from Cologne, Germany.
 
 I love 
 * music (especially Bach and techno)
-* the web
-* coding
 * running
-* cats
-* cloudy skies
-* learning, getting to know people
-* talking and listening
+* (some) people
+* what you can do with computers, but not necessarily computers themselves...
 
 In my day job, I mostly code PHP, JS, HTML, CSS and (sadly) TYPO3 stuff.
 
-Here I share my toy and learning projects.
+Here I share my toy and learning projects. 
 
 The first one I'd call an actual "project" is
 https://strlns.github.io/ksuduo/index.html
