@@ -7,17 +7,15 @@ I love
 * (some) people
 * what you can do with computers, but not necessarily computers themselves...
 
-In my day job, I mostly code PHP, JS, HTML, CSS and (sadly) TYPO3 stuff.
+In my day job, I mostly code PHP, JS, HTML, CSS stuff.
 
-Here I share my toy and learning projects. 
+Here are my toy and learning projects. 
 
-The first one I'd call an actual "project" is
 https://strlns.github.io/ksuduo/index.html
-
 The goal here was to learn React and TypeScript. It grew and grew, code is partly sloppy and I went all the way down the rabbit-hole of solving and generating sudokos :)
 
 https://strlns.github.io/thirty-six/
-is a variation of the same thing, but with six 3x2 blocks. That makes the puzzles very easy.
+variation of the same thing, but with six 3x2 blocks. That makes the puzzles very easy.
 
 https://github.com/strlns/webgl-babysteps
 This repo is my playground to learn about three.js and WebGL.
