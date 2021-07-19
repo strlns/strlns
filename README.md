@@ -1,13 +1,4 @@
-Hi, I'm Moritz from Cologne, Germany.
-{INSERT OBLIGATORY EMOJIS HERE}
-
-I love 
-* music (especially Bach and techno)
-* running
-* (some) people
-* what you can do with computers, but not necessarily computers themselves...
-
-In my day job, I mostly code PHP, JS, HTML, CSS stuff.
+I'm Moritz from Cologne, Germany.
 
 Here are my toy and learning projects. 
 
